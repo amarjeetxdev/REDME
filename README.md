@@ -30,7 +30,7 @@
 
 - 🎓 BCA student aspiring to become a **Software Engineer**
 - 💻 Exploring **Web Development & Full Stack Development**
-- 🌱 Learning **C Programming, JavaScript, React & Node.js**
+- 🌱 Learning **C Programming, HTML, CSS,JavaScript**
 - 🔭 Working on my **Multi-Tools Website — AllHubTools**
 - 🎯 Goal: Build useful software and become a **Professional Full Stack Developer**
 - 👨‍💻 Explore my [GitHub Repositories](https://github.com/amarjeetxdev?tab=repositories)
